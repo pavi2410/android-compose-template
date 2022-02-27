@@ -1,4 +1,4 @@
-package me.pavi2410.templateandroidcompose
+package me.pavi2410.androidcomposetemplate
 
 import org.junit.Test
 

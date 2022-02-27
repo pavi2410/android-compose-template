@@ -1,4 +1,4 @@
-package me.pavi2410.templateandroidcompose.ui.theme
+package me.pavi2410.androidcomposetemplate.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

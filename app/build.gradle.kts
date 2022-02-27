@@ -7,7 +7,7 @@ android {
     compileSdk = 31
 
     defaultConfig {
-        applicationId = "me.pavi2410.templateandroidcompose"
+        applicationId = "me.pavi2410.androidcomposetemplate"
         minSdk = 21
         targetSdk = 31
         versionCode = 1
